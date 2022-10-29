@@ -1,9 +1,9 @@
 # Project 0. Guess the number
 
 ## Оглавление
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/Ily1chh/SF_Ily1chh/tree/main/project_0/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?]()
+[2. Какой кейс решаем?](https://github.com/Ily1chh/SF_Ily1chh/tree/main/project_0/README.md#Какой-кейс-решаем)
 
 ### Описание проекта
 Угадать загаданное компьюьером число за минимальное кличество попыток
@@ -19,4 +19,4 @@
 
 Результаты оцениваются по среднему количеству попыток при 1000 повторений.
 
-:arrow_up (К оглавлению)()
+:arrow_up (К оглавлению)(https://github.com/Ily1chh/SF_Ily1chh/tree/main/project_0/README.md#Оглавление)
